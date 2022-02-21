@@ -1,0 +1,16 @@
+Fox Sport House,33 Westbeach Street,Cape-Town,Western-Cape,89000.0,Foot-Wear,www.foxsport.co.za
+
+Floyd's Run Scene,44 Bebot Ave,Benoni,Gauteng,80000.0,Foot-Wear,www.floydsrun.com
+
+Benjamin's Sports Gear,45 Moloko Street,Polokwane,Limpopo,99000.0,T-Shirts,www.benjiesgear.com
+
+Tim's Sport World,11 Fox Street,Pretoria,Gauteng,70000.0,T-Shirts,www.timsport.co.za
+
+Tasha's Sport Hub,44 Gil Road,Rustenburg,North-West,120000.0,Foot-Wear,www.tashasport.co.za
+
+Germini Sporting,33 Marcus Road,Benoni,Gauteng,88000.0,Jackets,www.germini.co.za
+
+Blue Hub,2 Van Der Wilt,Polokwane,Limpopo,70000.0,Top-Wear,www.bluehub.co.za
+
+Jimmy's Sports Cave,12 Rex Avenue,East London,Eastern Cape,69000.0,Other,www.jimbean.co.za
+
